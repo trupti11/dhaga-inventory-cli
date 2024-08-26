@@ -412,11 +412,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-**Author:** Your Name
+**Author:** Trupti Wagh
 
-**Email:** your.email@example.com
+**Email:** trupti.wagh@gmail.com
 
-**GitHub:** [yourusername](https://github.com/yourusername)
+**GitHub:** [trupti11](https://github.com/trupti11)
 
 Feel free to reach out for any questions or suggestions!
 
